@@ -49,7 +49,7 @@ https://chriskiihne.dev/cist/index.html#download
     </td>
   </tr>
 </table>
-u
+
 ## Founders
 Colin Brammeier  
 Nicholas Bohlen  
